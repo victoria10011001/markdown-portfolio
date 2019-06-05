@@ -1,1 +1,1 @@
-<img src="pupdanceparty.gif" alt="Puppies dancing">
+(![alt-text](_includes/02-image.md))
